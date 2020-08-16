@@ -1,2 +1,6 @@
 - name: GitHub Action for Trello
   uses: awais786327/ifttt-action@v1.0
+ 
+- name: Link GitHub Issue and Pull Request with Trello Card
+  uses: jessicazu/trello-github-actions@v1.0
+
